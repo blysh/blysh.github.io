@@ -9,8 +9,8 @@ https://blysh.github.io/
 https://blysh.github.io/tags/Hexo/
 https://blysh.github.io/tags/theme/
 https://blysh.github.io/tags/PDF/
-https://blysh.github.io/tags/Git/
 https://blysh.github.io/tags/Github/
+https://blysh.github.io/tags/Git/
 https://blysh.github.io/tags/GitHub/
 https://blysh.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%8A%80%E6%9C%AF/
 https://blysh.github.io/categories/GitHub/
