@@ -7,10 +7,10 @@ https://blysh.github.io/Hexo%E4%B8%AD%E5%B1%95%E7%A4%BAPDF%E6%96%87%E4%BB%B6%E5%
 https://blysh.github.io/Hexo%E4%B8%BB%E9%A2%98%E6%9B%B4%E6%8D%A2-icarus/
 https://blysh.github.io/
 https://blysh.github.io/tags/Hexo/
-https://blysh.github.io/tags/theme/
 https://blysh.github.io/tags/PDF/
-https://blysh.github.io/tags/Github/
+https://blysh.github.io/tags/theme/
 https://blysh.github.io/tags/Git/
+https://blysh.github.io/tags/Github/
 https://blysh.github.io/tags/GitHub/
 https://blysh.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%8A%80%E6%9C%AF/
 https://blysh.github.io/categories/GitHub/

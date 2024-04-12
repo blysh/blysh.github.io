@@ -81,13 +81,6 @@
   </url>
   
   <url>
-    <loc>https://blysh.github.io/tags/theme/</loc>
-    <lastmod>2024-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blysh.github.io/tags/PDF/</loc>
     <lastmod>2024-04-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -95,7 +88,7 @@
   </url>
   
   <url>
-    <loc>https://blysh.github.io/tags/Github/</loc>
+    <loc>https://blysh.github.io/tags/theme/</loc>
     <lastmod>2024-04-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -103,6 +96,13 @@
   
   <url>
     <loc>https://blysh.github.io/tags/Git/</loc>
+    <lastmod>2024-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blysh.github.io/tags/Github/</loc>
     <lastmod>2024-04-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
